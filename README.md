@@ -38,6 +38,7 @@ python3 object_tracking.py
 By default, the program is configured to utilize the camera for capturing the video stream. To initiate the script with this default setting, simply execute the Python script without providing any additional arguments.
 
 If you wish to process video files instead, you must explicitly specify the path to the desired video file changing video path. Replace `0` in the code below with the actual file path of your video:
+> Example video link here(https://www.youtube.com/watch?v=WvhYuDvH17I)
 
 ```python
 # Define the video file path or 0 for webcamera input
