@@ -51,3 +51,5 @@ cap.release()
 cv2.destroyAllWindows()
 
 print("Tracking complete!")
+
+# cv2.rectangle(frame, (x, y), (x + w, y + h), (255, 0, 0), 1)
